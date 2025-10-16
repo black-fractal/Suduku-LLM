@@ -86,6 +86,8 @@ python3 run.py --modern
 
 On first launch you will be prompted to enter a username for leaderboard tracking. Navigation is optimized for keyboard and mouse input, and all controls provide immediate feedback through the status bar.
 
+![Sudoku Studio modern interface](sudoku/gui_modern/Modern-GUI-SUDUKU.png)
+
 ### Command-Line Interface
 
 Use the CLI when you need scripted generation or solver access without a GUI.
